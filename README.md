@@ -1,42 +1,34 @@
-# 👋 Marella Vijay Bhargav
+# 👨‍💻 Marella Vijay Bhargav
 
-🎓 Aspiring DevOps Engineer | 🛠️ Cloud Enthusiast | 🧠 Lifelong Learner
-
-I’m currently pursuing my B.Tech in Electronics & Communication Engineering and exploring the intersection of cloud, automation, and AI. I love building impactful tech solutions that support sustainable development.
-
----
-
-## 🌿 Renewable Energy Awareness Chatbot
-
-An AI-powered chatbot built to educate users on renewable energy sources such as **solar energy**, **wind energy**, and **energy conservation**.
-
-🔧 **Tech Stack**:  
-`Rasa Pro` • `OpenAI GPT API` • `React.js` • `Docker` • `Python`
-
-📁 **Repositories**:
-- 🔗 [Backend (Rasa)](https://github.com/VijayBhargav879/Rasa_Backend)
-- 🔗 [Frontend (React)](https://github.com/VijayBhargav879/React_Frontend)
-
-🚀 **Project Highlights**:
-- 🤖 Developed a multilingual chatbot using **Rasa Pro** and **ChatGPT API**
-- 📚 Answered 150+ curated FAQs on renewable energy
-- 🧠 Automated 85% of support queries, saving time and improving user satisfaction
-- 🌐 Integrated with a custom React UI and Dockerized backend for scalable deployment
-- 💬 Increased user engagement by **40%** through fallback and language personalization
-
-🎯 Built during the **1M1B Green Internship** as part of a capstone project to support:
-- **Goal 7** – Affordable and Clean Energy  
-- **Goal 13** – Climate Action
+💼 **DevOps | Cloud | Cybersecurity | AI Projects**  
+📬 **Email:** vijaybhargav879@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/MarellaVijayBhargav) | [GitHub](https://github.com/VijayBhargav879)
 
 ---
 
-## 📌 Currently Exploring
-- DevOps Tools: Jenkins, Terraform, GitHub Actions
-- Cloud: AWS, Azure, and GCP
-- CI/CD pipelines, container orchestration (Kubernetes)
+## 🚀 Featured Project – InfoPilot 🧠💬
+
+**InfoPilot** is a powerful AI assistant built using **Rasa Pro** and integrated with **OpenAI GPT** to deliver natural and intelligent conversations. The project is fully containerized with **Docker** and features a sleek, responsive **React frontend** for web interaction.
+
+- 🤖 Rasa Pro for advanced NLU + GPT fallback
+- 🧱 Dockerized backend and action server
+- 🖥️ Frontend built with React.js and chat widget
+- 🧠 Custom knowledge base covering FAQs from energy, environment, technology, and more
+- 🔗 [Backend Repo](https://github.com/VijayBhargav879/Rasa_Backend)  
+- 🔗 [Frontend Repo](https://github.com/VijayBhargav879/React_Frontend)
 
 ---
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/MarellaVijayBhargav)
-- 💻 [GitHub](https://github.com/VijayBhargav879)
+## 📘 Projects
+
+- **InfoPilot** – All-in-one AI chatbot with GPT + Rasa Pro
+- **Cloud Infrastructure Simulation** – IaC & deployment on AWS/Azure
+- **Cybersecurity Labs** – Cisco & Palo Alto Network simulations
+
+---
+
+## 🧰 Tech Stack
+
+`Python` `Docker` `Rasa Pro` `OpenAI API` `React.js` `Azure` `AWS` `Terraform` `Jenkins` `GitHub Actions`
+
+---
